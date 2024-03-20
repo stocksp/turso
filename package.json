@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@libsql/client": "^0.4.3",
+    "dotenv": "^16.4.4"
+  },
+  "type": "module"
+}
